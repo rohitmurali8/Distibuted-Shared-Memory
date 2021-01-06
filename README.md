@@ -24,6 +24,6 @@ a pagefault occurs, printf: " [x] PAGEFAULT\n". For each page, based on the comm
 
 The output of the third part can be seen in the images below:
 
-![alt tag](https://github.com/rohitmurali8/Distributed-Shared-Memory/blob/master/OUTPUT1.PNG)
+![alt tag](https://github.com/rohitmurali8/Distributed-Shared-Memory/blob/master/1.PNG)
 
-![alt tag](https://github.com/rohitmurali8/Distributed-Shared-Memory/blob/master/OUTPUT2.PNG)
+![alt tag](https://github.com/rohitmurali8/Distributed-Shared-Memory/blob/master/2.PNG)
