@@ -21,3 +21,9 @@ each iterations:
 
  “%i” is replaced with the the number of pages specified by the user from Part 2. This will run the command accordingly to interact with mmaped region. When
 a pagefault occurs, printf: " [x] PAGEFAULT\n". For each page, based on the command we print the contents such as: " [*] Page %i:\n%s\n" with %i being the page number and %s being the page content."
+
+The output of the third part can be seen in the images below:
+
+![alt tag](https://github.com/rohitmurali8/Distributed-Shared-Memory/blob/master/OUTPUT1.PNG)
+
+![alt tag](https://github.com/rohitmurali8/Distributed-Shared-Memory/blob/master/OUTPUT2.PNG)
